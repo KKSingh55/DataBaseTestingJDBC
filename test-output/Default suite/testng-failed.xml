@@ -6,7 +6,7 @@
       <class name="storeProcedureTesting.StoreProcedure">
         <methods>
           <include name="tearDown"/>
-          <include name="test_setAllCustomers"/>
+          <include name="get_order_by_cust"/>
           <include name="setup"/>
         </methods>
       </class> <!-- storeProcedureTesting.StoreProcedure -->
